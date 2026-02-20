@@ -66,7 +66,7 @@ The core of our analysis uses the **TextBlob** library, which provides a straigh
 
 - **Polarity**: Measures the sentiment of a tweet.
   - Range: [-1.0, 1.0]
-  - > 0: Positive sentiment
+  - More than 0: Positive sentiment
   - < 0: Negative sentiment
   - = 0: Neutral sentiment
 
